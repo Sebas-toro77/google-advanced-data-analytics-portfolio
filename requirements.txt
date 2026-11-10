@@ -1,0 +1,27 @@
+# Projects Portfolio Environment Dependencies
+# Generated for reproducible execution across all three portfolio projects:
+# 1. Salifort Motors HR Analytics
+# 2. Automatidata NYC Taxi Analytics & Predictions
+# 3. Customer Churn & Segmentation in Retail Banking
+
+# Core Numerical & Data Manipulation
+numpy>=1.23.0,<2.0.0
+pandas>=1.5.0,<3.0.0
+scipy>=1.9.0,<2.0.0
+
+# Visualization & Statistical Graphics
+matplotlib>=3.6.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+
+# Statistical Modeling & Inference
+statsmodels>=0.13.5,<1.0.0
+
+# Machine Learning & Ensembles
+scikit-learn>=1.2.0,<1.6.0
+xgboost>=1.7.0,<3.0.0
+
+# Interactive Computing & Notebooks
+jupyterlab>=3.5.0
+notebook>=6.5.0
+ipywidgets>=8.0.0
+
